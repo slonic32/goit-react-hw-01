@@ -1,0 +1,28 @@
+.item {
+  border: 2px solid #212121;
+  border-radius: 10px;
+  padding: 15px;
+}
+
+.avatar {
+  justify-content: center;
+}
+
+.name,
+.status {
+  text-align: center;
+}
+
+.name {
+  font-weight: 600;
+}
+
+.status {
+  font-size: 10px;
+  text-align: center;
+  color: red;
+}
+
+.onLine {
+  color: green;
+}
